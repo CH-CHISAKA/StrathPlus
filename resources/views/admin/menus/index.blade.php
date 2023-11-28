@@ -44,10 +44,10 @@
                                             <!-- Adding Products -->
                                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
                                                 <td class="p-4">
-                                                    <img src="/docs/images/products/apple.png" class="w-16 md:w-32 max-w-full max-h-full" alt="Apple">
+                                                    <img src="images/breakfast.jpg" class="w-16 md:w-32 max-w-full max-h-full" alt="breakfast">
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Apple
+                                                    Breakfast 
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <div class="flex items-center">
@@ -69,7 +69,7 @@
                                                     </div>
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Kes.60
+                                                    Kes.120
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <a href="#" class="font-medium text-red-600 dark:text-red-500 hover:underline">Remove</a>
@@ -79,10 +79,10 @@
                                             <!-- Adding Products -->
                                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
                                                 <td class="p-4">
-                                                    <img src="/docs/images/products/apple.png" class="w-16 md:w-32 max-w-full max-h-full" alt="Apple">
+                                                    <img src="images/pastry.jpg" class="w-16 md:w-32 max-w-full max-h-full" alt="pastry">
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Apple
+                                                    Pastry 
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <div class="flex items-center">
@@ -104,7 +104,7 @@
                                                     </div>
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Kes.60
+                                                    Kes.80
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <a href="#" class="font-medium text-red-600 dark:text-red-500 hover:underline">Remove</a>
@@ -114,10 +114,10 @@
                                             <!-- Adding Products -->
                                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
                                                 <td class="p-4">
-                                                    <img src="/docs/images/products/apple.png" class="w-16 md:w-32 max-w-full max-h-full" alt="Apple">
+                                                    <img src="images/salade.jpg" class="w-16 md:w-32 max-w-full max-h-full" alt="salade">
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Apple
+                                                    Salade
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <div class="flex items-center">
@@ -139,7 +139,7 @@
                                                     </div>
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Kes.60
+                                                    Kes.80
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <a href="#" class="font-medium text-red-600 dark:text-red-500 hover:underline">Remove</a>
@@ -149,10 +149,10 @@
                                             <!-- Adding Products -->
                                             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
                                                 <td class="p-4">
-                                                    <img src="/docs/images/products/apple.png" class="w-16 md:w-32 max-w-full max-h-full" alt="Apple">
+                                                    <img src="{{URL('images\lunch.jpg')}}" class="w-16 md:w-32 max-w-full max-h-full" alt="lunch">
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Apple
+                                                    Lunch
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <div class="flex items-center">
@@ -174,7 +174,7 @@
                                                     </div>
                                                 </td>
                                                 <td class="px-6 py-4 font-semibold text-gray-900 dark:text-white">
-                                                    Kes.60
+                                                    Kes.120
                                                 </td>
                                                 <td class="px-6 py-4">
                                                     <a href="#" class="font-medium text-red-600 dark:text-red-500 hover:underline">Remove</a>
